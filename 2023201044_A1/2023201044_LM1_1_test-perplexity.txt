@@ -1,0 +1,1001 @@
+393.480457
+SOS it is a truth universally acknowledged that a single man in possession of a good fortune must be in want of a wife EOS	388.809351
+SOS however little known the feelings or views of such a man may be on his first entering a neighbourhood this truth is so well fixed in the minds of the surrounding families that he is considered as the rightful property of some one or other of their daughters EOS	485.157638
+SOS my dear TITLE bennet said his lady to him one day have you heard that netherfield park is let at last EOS	293.981122
+SOS TITLE bennet replied that he had not EOS	117.167691
+SOS but it is returned she for TITLE long has just been here and she told me all about it EOS	236.744953
+SOS TITLE bennet made no answer EOS	219.569192
+SOS do not you want to know who has taken it EOS	219.986948
+SOS cried his wife impatiently EOS	506.191515
+SOS you want to tell me and i have no objection to hearing it EOS	208.704076
+SOS this was invitation enough EOS	198.548219
+SOS why my dear you must know TITLE long says that netherfield is taken by a young man of large fortune from the north of england that he came down on monday in a chaise and four to see the place and was so much delighted with it that he agreed with TITLE morris immediately that he is to take possession before michaelmas and some of his servants are to be in the house by the end of next week EOS	416.888218
+SOS what is his name EOS	143.923178
+SOS bingley EOS	68.463000
+SOS is he married or single EOS	278.605407
+SOS oh EOS	90.689046
+SOS single my dear to be sure EOS	225.220168
+SOS a single man of large fortune four or five thousand a year EOS	745.849962
+SOS what a fine thing for our girls EOS	340.963322
+SOS how so EOS	89.915828
+SOS how can it affect them EOS	295.051967
+SOS my dear TITLE bennet replied his wife how can you be so tiresome EOS	361.779053
+SOS you must know that i am thinking of his marrying one of them EOS	196.117035
+SOS is that his design in settling here EOS	344.381847
+SOS design EOS	151.098010
+SOS nonsense how can you talk so EOS	456.404854
+SOS but it is very likely that he may fall in love with one of them and therefore you must visit him as soon as he comes EOS	267.696591
+SOS i see no occasion for that EOS	153.414183
+SOS you and the girls may go or you may send them by themselves which perhaps will be still better for as you are as handsome as any of them TITLE bingley might like you the best of the party EOS	301.126751
+SOS my dear you flatter me EOS	233.527840
+SOS i certainly have had my share of beauty but i do not pretend to be any thing extraordinary now EOS	307.774109
+SOS when a woman has five grown up daughters she ought to give over thinking of her own beauty EOS	597.816672
+SOS in such cases a woman has not often much beauty to think of EOS	307.534455
+SOS but my dear you must indeed go and see TITLE bingley when he comes into the neighbourhood EOS	308.703483
+SOS it is more than i engage for i assure you EOS	214.598472
+SOS but consider your daughters EOS	273.204362
+SOS only think what an establishment it would be for one of them EOS	225.518870
+SOS sir william and lady lucas are determined to go merely on that account for in general you know they visit no new comers EOS	503.781595
+SOS indeed you must go for it will be impossible for us to visit him if you do not EOS	234.950201
+SOS you are over scrupulous surely EOS	523.485402
+SOS i dare say TITLE bingley will be very glad to see you and i will send a few lines by you to assure him of my hearty consent to his marrying which ever he chuses of the girls though i must throw in a good word for my little lizzy EOS	364.546953
+SOS i desire you will do no such thing EOS	217.993033
+SOS lizzy is not a bit better than the others and i am sure she is not half so handsome as jane nor half so good humoured as lydia EOS	368.038879
+SOS but you are always giving her the preference EOS	243.847392
+SOS they have none of them much to recommend them replied he they are all silly and ignorant like other girls but lizzy has something more of quickness than her sisters EOS	443.594058
+SOS TITLE bennet how can you abuse your own children in such a way EOS	373.218932
+SOS you take delight in vexing me EOS	289.159566
+SOS you have no compassion on my poor nerves EOS	433.082502
+SOS you mistake me my dear EOS	245.027086
+SOS i have a high respect for your nerves EOS	376.110678
+SOS they are my old friends EOS	297.904200
+SOS i have heard you mention them with consideration these twenty years at least EOS	510.814407
+SOS ah EOS	302.196021
+SOS you do not know what i suffer EOS	180.794196
+SOS but i hope you will get over it and live to see many young men of four thousand a year come into the neighbourhood EOS	421.246694
+SOS it will be no use to us if twenty such should come since you will not visit them EOS	355.945265
+SOS depend upon it my dear that when there are twenty i will visit them all EOS	357.045615
+SOS TITLE bennet was so odd a mixture of quick parts sarcastic humour reserve and caprice that the experience of three and twenty years had been insufficient to make his wife understand his character EOS	708.030091
+SOS her mind was less difficult to develope EOS	299.384980
+SOS she was a woman of mean understanding little information and uncertain temper EOS	501.570754
+SOS when she was discontented she fancied herself nervous EOS	566.161492
+SOS the business of her life was to get her daughters married its solace was visiting and news EOS	347.115861
+SOS TITLE bennet was among the earliest of those who waited on TITLE bingley EOS	360.863502
+SOS he had always intended to visit him though to the last always assuring his wife that he should not go and till the evening after the visit was paid she had no knowledge of it EOS	307.672897
+SOS it was then disclosed in the following manner EOS	221.168508
+SOS observing his second daughter employed in trimming a hat he suddenly addressed her with i hope TITLE bingley will like it lizzy EOS	563.970171
+SOS we are not in a way to know what TITLE bingley likes said her mother resentfully since we are not to visit EOS	336.709424
+SOS but you forget mama said elizabeth that we shall meet him at the assemblies and that TITLE long has promised to introduce him EOS	348.861182
+SOS i do not believe TITLE long will do any such thing EOS	225.505404
+SOS she has two nieces of her own EOS	212.238567
+SOS she is a selfish hypocritical woman and i have no opinion of her EOS	208.562942
+SOS no more have i said TITLE bennet and i am glad to find that you do not depend on her serving you EOS	210.942861
+SOS TITLE bennet deigned not to make any reply but unable to contain herself began scolding one of her daughters EOS	572.611601
+SOS don t keep coughing so kitty for heaven s sake EOS	1101.341068
+SOS have a little compassion on my nerves EOS	372.003437
+SOS you tear them to pieces EOS	472.825251
+SOS kitty has no discretion in her coughs said her father she times them ill EOS	425.529576
+SOS i do not cough for my own amusement replied kitty fretfully EOS	549.477180
+SOS when is your next ball to be lizzy EOS	237.453078
+SOS to morrow fortnight EOS	231.957984
+SOS aye so it is cried her mother and TITLE long does not come back till the day before so it will be impossible for her to introduce him for she will not know him herself EOS	293.245584
+SOS then my dear you may have the advantage of your friend and introduce TITLE bingley to her EOS	211.410054
+SOS impossible TITLE bennet impossible when i am not acquainted with him myself how can you be so teazing EOS	366.845318
+SOS i honour your circumspection EOS	381.421672
+SOS a fortnight s acquaintance is certainly very little EOS	306.498373
+SOS one cannot know what a man really is by the end of a fortnight EOS	260.258748
+SOS but if we do not venture somebody else will and after all TITLE long and her nieces must stand their chance and therefore as she will think it an act of kindness if you decline the office i will take it on myself EOS	485.544153
+SOS the girls stared at their father EOS	337.142078
+SOS TITLE bennet said only nonsense nonsense EOS	733.876336
+SOS what can be the meaning of that emphatic exclamation EOS	329.677001
+SOS cried he EOS	98.952876
+SOS do you consider the forms of introduction and the stress that is laid on them as nonsense EOS	440.008129
+SOS i cannot quite agree with you there EOS	285.760277
+SOS what say you mary EOS	190.571171
+SOS for you are a young lady of deep reflection i know and read great books and make extracts EOS	425.202774
+SOS mary wished to say something very sensible but knew not how EOS	404.425426
+SOS while mary is adjusting her ideas he continued let us return to TITLE bingley EOS	485.107557
+SOS i am sick of TITLE bingley cried his wife EOS	277.323107
+SOS i am sorry to hear that but why did not you tell me so before EOS	238.492635
+SOS if i had known as much this morning i certainly would not have called on him EOS	236.691985
+SOS it is very unlucky but as i have actually paid the visit we cannot escape the acquaintance now EOS	407.127697
+SOS the astonishment of the ladies was just what he wished that of TITLE bennet perhaps surpassing the rest though when the first tumult of joy was over she began to declare that it was what she had expected all the while EOS	302.726451
+SOS how good it was in you my dear TITLE bennet EOS	147.914390
+SOS but i knew i should persuade you at last EOS	216.725838
+SOS i was sure you loved your girls too well to neglect such an acquaintance EOS	406.169056
+SOS well how pleased i am EOS	210.466843
+SOS and it is such a good joke too that you should have gone this morning and never said a word about it till now EOS	311.779001
+SOS now kitty you may cough as much as you chuse said TITLE bennet and as he spoke he left the room fatigued with the raptures of his wife EOS	345.300287
+SOS what an excellent father you have girls said she when the door was shut EOS	356.884443
+SOS i do not know how you will ever make him amends for his kindness or me either for that matter EOS	357.752073
+SOS at our time of life it is not so pleasant i can tell you to be making new acquaintance every day but for your sakes we would do any thing EOS	397.046203
+SOS lydia my love though you are the youngest i dare say TITLE bingley will dance with you at the next ball EOS	364.952929
+SOS oh EOS	90.689046
+SOS said lydia stoutly i am not afraid for though i am the youngest i m the tallest EOS	383.226728
+SOS the rest of the evening was spent in conjecturing how soon he would return TITLE bennet s visit and determining when they should ask him to dinner EOS	419.288130
+SOS not all that TITLE bennet however with the assistance of her five daughters could ask on the subject was sufficient to draw from her husband any satisfactory description of TITLE bingley EOS	406.683514
+SOS they attacked him in various ways with barefaced questions ingenious suppositions and distant surmises but he eluded the skill of them all and they were at last obliged to accept the second hand intelligence of their neighbour lady lucas EOS	750.128029
+SOS her report was highly favourable EOS	367.285123
+SOS sir william had been delighted with him EOS	293.507680
+SOS he was quite young wonderfully handsome extremely agreeable and to crown the whole he meant to be at the next assembly with a large party EOS	514.634715
+SOS nothing could be more delightful EOS	228.336925
+SOS to be fond of dancing was a certain step towards falling in love and very lively hopes of TITLE bingley s heart were entertained EOS	532.622859
+SOS if i can but see one of my daughters happily settled at netherfield said TITLE bennet to her husband and all the others equally well married i shall have nothing to wish for EOS	335.615648
+SOS in a few days TITLE bingley returned TITLE bennet s visit and sat about ten minutes with him in his library EOS	398.615130
+SOS he had entertained hopes of being admitted to a sight of the young ladies of whose beauty he had heard much but he saw only the father EOS	345.486255
+SOS the ladies were somewhat more fortunate for they had the advantage of ascertaining from an upper window that he wore a blue coat and rode a black horse EOS	895.084384
+SOS an invitation to dinner was soon afterwards dispatched and already had TITLE bennet planned the courses that were to do credit to her housekeeping when an answer arrived which deferred it all EOS	562.206251
+SOS TITLE bingley was obliged to be in town the following day and consequently unable to accept the honour of their invitation c EOS	378.758193
+SOS TITLE bennet was quite disconcerted EOS	327.910324
+SOS she could not imagine what business he could have in town so soon after his arrival in hertfordshire and she began to fear that he might be always flying about from one place to another and never settled at netherfield as he ought to be EOS	339.316025
+SOS lady lucas quieted her fears a little by starting the idea of his being gone to london only to get a large party for the ball and a report soon followed that TITLE bingley was to bring twelve ladies and seven gentlemen with him to the assembly EOS	517.289774
+SOS the girls grieved over such a number of ladies but were comforted the day before the ball by hearing that instead of twelve he had brought only six with him from london his five sisters and a cousin EOS	527.349001
+SOS and when the party entered the assembly room it consisted of only five altogether TITLE bingley his two sisters the husband of the eldest and another young man EOS	431.605555
+SOS TITLE bingley was good looking and gentleman like he had a pleasant countenance and easy unaffected manners EOS	510.244437
+SOS his sisters were fine women with an air of decided fashion EOS	686.577574
+SOS his brother in law TITLE hurst merely looked the gentleman but his friend TITLE darcy soon drew the attention of the room by his fine tall person handsome features noble mien and the report which was in general circulation within five minutes after his entrance of his having ten thousand a year EOS	719.344531
+SOS the gentlemen pronounced him to be a fine figure of a man the ladies declared he was much handsomer than TITLE bingley and he was looked at with great admiration for about half the evening till his manners gave a disgust which turned the tide of his popularity for he was discovered to be proud to be above his company and above being pleased and not all his large estate in derbyshire could then save him from having a most forbidding disagreeable countenance and being unworthy to be compared with his friend EOS	536.931581
+SOS TITLE bingley had soon made himself acquainted with all the principal people in the room he was lively and unreserved danced every dance was angry that the ball closed so early and talked of giving one himself at netherfield EOS	569.467661
+SOS such amiable qualities must speak for themselves EOS	572.689429
+SOS what a contrast between him and his friend EOS	269.496485
+SOS TITLE darcy danced only once with TITLE hurst and once with miss bingley declined being introduced to any other lady and spent the rest of the evening in walking about the room speaking occasionally to one of his own party EOS	473.360719
+SOS his character was decided EOS	218.746224
+SOS he was the proudest most disagreeable man in the world and every body hoped that he would never come there again EOS	324.582872
+SOS amongst the most violent against him was TITLE bennet whose dislike of his general behaviour was sharpened into particular resentment by his having slighted one of her daughters EOS	670.646242
+SOS elizabeth bennet had been obliged by the scarcity of gentlemen to sit down for two dances and during part of that time TITLE darcy had been standing near enough for her to overhear a conversation between him and TITLE bingley who came from the dance for a few minutes to press his friend to join it EOS	418.469998
+SOS come darcy said he i must have you dance EOS	209.854172
+SOS i hate to see you standing about by yourself in this stupid manner EOS	496.365336
+SOS you had much better dance EOS	235.213150
+SOS i certainly shall not EOS	133.325091
+SOS you know how i detest it unless i am particularly acquainted with my partner EOS	497.223479
+SOS at such an assembly as this it would be insupportable EOS	364.543080
+SOS your sisters are engaged and there is not another woman in the room whom it would not be a punishment to me to stand up with EOS	295.399669
+SOS i would not be so fastidious as you are cried bingley for a kingdom EOS	250.671878
+SOS upon my honour i never met with so many pleasant girls in my life as i have this evening and there are several of them you see uncommonly pretty EOS	461.617613
+SOS you are dancing with the only handsome girl in the room said TITLE darcy looking at the eldest miss bennet EOS	329.524056
+SOS oh EOS	90.689046
+SOS she is the most beautiful creature i ever beheld EOS	436.224502
+SOS but there is one of her sisters sitting down just behind you who is very pretty and i dare say very agreeable EOS	400.018187
+SOS do let me ask my partner to introduce you EOS	412.123733
+SOS which do you mean EOS	171.733679
+SOS and turning round he looked for a moment at elizabeth till catching her eye he withdrew his own and coldly said she is tolerable but not handsome enough to tempt me and i am in no humour at present to give consequence to young ladies who are slighted by other men EOS	542.918358
+SOS you had better return to your partner and enjoy her smiles for you are wasting your time with me EOS	351.285149
+SOS TITLE bingley followed his advice EOS	305.677194
+SOS TITLE darcy walked off and elizabeth remained with no very cordial feelings towards him EOS	439.152087
+SOS she told the story however with great spirit among her friends for she had a lively playful disposition which delighted in any thing ridiculous EOS	691.496505
+SOS the evening altogether passed off pleasantly to the whole family EOS	487.313845
+SOS TITLE bennet had seen her eldest daughter much admired by the netherfield party EOS	415.730516
+SOS TITLE bingley had danced with her twice and she had been distinguished by his sisters EOS	312.824231
+SOS jane was as much gratified by this as her mother could be though in a quieter way EOS	242.298016
+SOS elizabeth felt jane s pleasure EOS	211.150956
+SOS mary had heard herself mentioned to miss bingley as the most accomplished girl in the neighbourhood and catherine and lydia had been fortunate enough to be never without partners which was all that they had yet learnt to care for at a ball EOS	391.648998
+SOS they returned therefore in good spirits to longbourn the village where they lived and of which they were the principal inhabitants EOS	436.577321
+SOS they found TITLE bennet still up EOS	273.446851
+SOS with a book he was regardless of time and on the present occasion he had a good deal of curiosity as to the event of an evening which had raised such splendid expectations EOS	391.975365
+SOS he had rather hoped that all his wife s views on the stranger would be disappointed but he soon found that he had a very different story to hear EOS	376.631098
+SOS oh EOS	90.689046
+SOS my dear TITLE bennet as she entered the room we have had a most delightful evening a most excellent ball EOS	352.021297
+SOS i wish you had been there EOS	123.331143
+SOS jane was so admired nothing could be like it EOS	247.668336
+SOS every body said how well she looked and TITLE bingley thought her quite beautiful and danced with her twice EOS	411.322049
+SOS only think of that my dear he actually danced with her twice and she was the only creature in the room that he asked a second time EOS	295.721595
+SOS first of all he asked miss lucas EOS	228.524614
+SOS i was so vexed to see him stand up with her but however he did not admire her at all indeed nobody can you know and he seemed quite struck with jane as she was going down the dance EOS	356.330666
+SOS so he enquired who she was and got introduced and asked her for the two next EOS	285.066056
+SOS then the two third he danced with miss king and the two fourth with maria lucas and the two fifth with jane again and the two sixth with lizzy and the boulanger if he had had any compassion for me cried her husband impatiently he would not have danced half so much EOS	449.380731
+SOS for god s sake say no more of his partners EOS	442.318225
+SOS oh EOS	90.689046
+SOS that he had sprained his ancle in the first dance EOS	234.973397
+SOS oh EOS	90.689046
+SOS my dear continued TITLE bennet i am quite delighted with him EOS	297.542957
+SOS he is so excessively handsome EOS	278.839299
+SOS and his sisters are charming women EOS	341.136544
+SOS i never in my life saw any thing more elegant than their dresses EOS	398.773410
+SOS i dare say the lace upon TITLE hurst s gown here she was interrupted again EOS	555.509897
+SOS TITLE bennet protested against any description of finery EOS	852.798926
+SOS she was therefore obliged to seek another branch of the subject and related with much bitterness of spirit and some exaggeration the shocking rudeness of TITLE darcy EOS	510.717881
+SOS but i can assure you she added that lizzy does not lose much by not suiting his fancy for he is a most disagreeable horrid man not at all worth pleasing EOS	485.462686
+SOS so high and so conceited that there was no enduring him EOS	313.337816
+SOS he walked here and he walked there fancying himself so very great EOS	414.448813
+SOS not handsome enough to dance with EOS	240.090360
+SOS i wish you had been there my dear to have given him one of your set downs EOS	243.581389
+SOS i quite detest the man EOS	288.273679
+SOS when jane and elizabeth were alone the former who had been cautious in her praise of TITLE bingley before expressed to her sister how very much she admired him EOS	316.266596
+SOS he is just what a young man ought to be said she sensible good humoured lively and i never saw such happy manners EOS	416.495523
+SOS so much ease with such perfect good breeding EOS	581.098514
+SOS he is also handsome replied elizabeth which a young man ought likewise to be if he possibly can EOS	429.443800
+SOS his character is thereby complete EOS	410.838122
+SOS i was very much flattered by his asking me to dance a second time EOS	338.516746
+SOS i did not expect such a compliment EOS	214.181280
+SOS did not you EOS	75.040548
+SOS i did for you EOS	77.132216
+SOS but that is one great difference between us EOS	326.653456
+SOS compliments always take you by surprise and me never EOS	347.270696
+SOS what could be more natural than his asking you again EOS	286.704821
+SOS he could not help seeing that you were about five times as pretty as every other woman in the room EOS	359.534175
+SOS no thanks to his gallantry for that EOS	214.956751
+SOS well he certainly is very agreeable and i give you leave to like him EOS	232.681141
+SOS you have liked many a stupider person EOS	347.336758
+SOS dear lizzy EOS	156.205771
+SOS oh EOS	90.689046
+SOS you are a great deal too apt you know to like people in general EOS	365.621897
+SOS you never see a fault in any body EOS	291.723443
+SOS all the world are good and agreeable in your eyes EOS	226.913780
+SOS i never heard you speak ill of a human being in my life EOS	314.637306
+SOS i would wish not to be hasty in censuring any one but i always speak what i think EOS	260.877964
+SOS i know you do and it is that which makes the wonder EOS	174.519259
+SOS with your good sense to be so honestly blind to the follies and nonsense of others EOS	463.854456
+SOS affectation of candour is common enough one meets it every where EOS	909.394967
+SOS but to be candid without ostentation or design to take the good of every body s character and make it still better and say nothing of the bad belongs to you alone EOS	364.554248
+SOS and so you like this man s sisters too do you EOS	223.749791
+SOS their manners are not equal to his EOS	190.227457
+SOS certainly not at first EOS	158.843193
+SOS but they are very pleasing women when you converse with them EOS	409.567049
+SOS miss bingley is to live with her brother and keep his house and i am much mistaken if we shall not find a very charming neighbour in her EOS	344.074975
+SOS elizabeth listened in silence but was not convinced their behaviour at the assembly had not been calculated to please in general and with more quickness of observation and less pliancy of temper than her sister and with a judgment too unassailed by any attention to herself she was very little disposed to approve them EOS	434.247994
+SOS they were in fact very fine ladies not deficient in good humour when they were pleased nor in the power of being agreeable where they chose it but proud and conceited EOS	558.860131
+SOS they were rather handsome had been educated in one of the first private seminaries in town had a fortune of twenty thousand pounds were in the habit of spending more than they ought and of associating with people of rank and were therefore in every respect entitled to think well of themselves and meanly of others EOS	508.015064
+SOS they were of a respectable family in the north of england a circumstance more deeply impressed on their memories than that their brother s fortune and their own had been acquired by trade EOS	643.851674
+SOS TITLE bingley inherited property to the amount of nearly an hundred thousand pounds from his father who had intended to purchase an estate but did not live to do it EOS	652.661408
+SOS TITLE bingley intended it likewise and sometimes made choice of his county but as he was now provided with a good house and the liberty of a manor it was doubtful to many of those who best knew the easiness of his temper whether he might not spend the remainder of his days at netherfield and leave the next generation to purchase EOS	496.135249
+SOS his sisters were very anxious for his having an estate of his own but though he was now established only as a tenant miss bingley was by no means unwilling to preside at his table nor was TITLE hurst who had married a man of more fashion than fortune less disposed to consider his house as her home when it suited her EOS	476.563374
+SOS TITLE bingley had not been of age two years when he was tempted by an accidental recommendation to look at netherfield house EOS	499.659204
+SOS he did look at it and into it for half an hour was pleased with the situation and the principal rooms satisfied with what the owner said in its praise and took it immediately EOS	376.122302
+SOS between him and darcy there was a very steady friendship in spite of a great opposition of character EOS	360.235567
+SOS bingley was endeared to darcy by the easiness openness ductility of his temper though no disposition could offer a greater contrast to his own and though with his own he never appeared dissatisfied EOS	564.276966
+SOS on the strength of darcy s regard bingley had the firmest reliance and of his judgment the highest opinion EOS	409.527956
+SOS in understanding darcy was the superior EOS	190.230631
+SOS bingley was by no means deficient but darcy was clever EOS	384.745353
+SOS he was at the same time haughty reserved and fastidious and his manners though well bred were not inviting EOS	538.015012
+SOS in that respect his friend had greatly the advantage EOS	256.650959
+SOS bingley was sure of being liked wherever he appeared darcy was continually giving offence EOS	712.688576
+SOS the manner in which they spoke of the meryton assembly was sufficiently characteristic EOS	399.053078
+SOS bingley had never met with pleasanter people or prettier girls in his life every body had been most kind and attentive to him there had been no formality no stiffness he had soon felt acquainted with all the room and as to miss bennet he could not conceive an angel more beautiful EOS	587.393990
+SOS darcy on the contrary had seen a collection of people in whom there was little beauty and no fashion for none of whom he had felt the smallest interest and from none received either attention or pleasure EOS	492.106867
+SOS miss bennet he acknowledged to be pretty but she smiled too much EOS	316.614268
+SOS TITLE hurst and her sister allowed it to be so but still they admired her and liked her and pronounced her to be a sweet girl and one whom they should not object to know more of EOS	274.274951
+SOS miss bennet was therefore established as a sweet girl and their brother felt authorised by such commendation to think of her as he chose EOS	483.631409
+SOS within a short walk of longbourn lived a family with whom the bennets were particularly intimate EOS	581.289174
+SOS sir william lucas had been formerly in trade in meryton where he had made a tolerable fortune and risen to the honour of knighthood by an address to the king during his mayoralty EOS	604.686602
+SOS the distinction had perhaps been felt too strongly EOS	463.283965
+SOS it had given him a disgust to his business and to his residence in a small market town and quitting them both he had removed with his family to a house about a mile from meryton denominated from that period lucas lodge where he could think with pleasure of his own importance and unshackled by business occupy himself solely in being civil to all the world EOS	558.061503
+SOS for though elated by his rank it did not render him supercilious on the contrary he was all attention to every body EOS	397.300735
+SOS by nature inoffensive friendly and obliging his presentation at st EOS	1008.107040
+SOS james s had made him courteous EOS	366.656762
+SOS lady lucas was a very good kind of woman not too clever to be a valuable neighbour to TITLE bennet EOS	354.370874
+SOS they had several children EOS	273.995393
+SOS the eldest of them a sensible intelligent young woman about twenty seven was elizabeth s intimate friend EOS	769.119397
+SOS that the miss lucases and the miss bennets should meet to talk over a ball was absolutely necessary and the morning after the assembly brought the former to longbourn to hear and to communicate EOS	406.152479
+SOS you began the evening well charlotte said TITLE bennet with civil self command to miss lucas EOS	476.315482
+SOS you were TITLE bingley s first choice EOS	226.303789
+SOS yes but he seemed to like his second better EOS	299.466782
+SOS oh EOS	90.689046
+SOS you mean jane i suppose because he danced with her twice EOS	436.636477
+SOS to be sure that did seem as if he admired her indeed i rather believe he did i heard something about it but i hardly know what something about TITLE robinson EOS	383.781578
+SOS perhaps you mean what i overheard between him and TITLE robinson did not i mention it to you EOS	301.296745
+SOS TITLE robinson s asking him how he liked our meryton assemblies and whether he did not think there were a great many pretty women in the room and which he thought the prettiest EOS	423.129924
+SOS and his answering immediately to the last question oh EOS	331.358886
+SOS the eldest miss bennet beyond a doubt there cannot be two opinions on that point EOS	453.557204
+SOS upon my word EOS	227.618332
+SOS well that was very decided indeed that does seem as if but however it may all come to nothing you know EOS	316.167490
+SOS my overhearings were more to the purpose than yours eliza said charlotte EOS	473.790342
+SOS TITLE darcy is not so well worth listening to as his friend is he EOS	230.008755
+SOS poor eliza EOS	348.651482
+SOS to be only just tolerable EOS	210.904736
+SOS i beg you would not put it into lizzy s head to be vexed by his ill treatment for he is such a disagreeable man that it would be quite a misfortune to be liked by him EOS	364.463812
+SOS TITLE long told me last night that he sat close to her for half an hour without once opening his lips EOS	553.224941
+SOS are you quite sure ma am EOS	379.911627
+SOS is not there a little mistake EOS	208.340524
+SOS said jane EOS	97.360048
+SOS i certainly saw TITLE darcy speaking to her EOS	176.245843
+SOS aye because she asked him at last how he liked netherfield and he could not help answering her but she said he seemed very angry at being spoke to EOS	445.708664
+SOS miss bingley told me said jane that he never speaks much unless among his intimate acquaintance EOS	628.407315
+SOS with them he is remarkably agreeable EOS	266.893032
+SOS i do not believe a word of it my dear EOS	158.012889
+SOS if he had been so very agreeable he would have talked to TITLE long EOS	206.826523
+SOS but i can guess how it was every body says that he is ate up with pride and i dare say he had heard somehow that TITLE long does not keep a carriage and had come to the ball in a hack chaise EOS	456.787178
+SOS i do not mind his not talking to TITLE long said miss lucas but i wish he had danced with eliza EOS	310.303583
+SOS another time lizzy said her mother i would not dance with him if i were you EOS	236.047456
+SOS i believe ma am i may safely promise you never to dance with him EOS	450.259240
+SOS his pride said miss lucas does not offend me so much as pride often does because there is an excuse for it EOS	512.592458
+SOS one cannot wonder that so very fine a young man with family fortune every thing in his favour should think highly of himself EOS	446.397633
+SOS if i may so express it he has a right to be proud EOS	237.495656
+SOS that is very true replied elizabeth and i could easily forgive his pride if he had not mortified mine EOS	399.606452
+SOS pride observed mary who piqued herself upon the solidity of her reflections is a very common failing i believe EOS	671.750805
+SOS by all that i have ever read i am convinced that it is very common indeed that human nature is particularly prone to it and that there are very few of us who do not cherish a feeling of self complacency on the score of some quality or other real or imaginary EOS	539.398631
+SOS vanity and pride are different things though the words are often used synonimously EOS	724.794589
+SOS a person may be proud without being vain EOS	432.312908
+SOS pride relates more to our opinion of ourselves vanity to what we would have others think of us EOS	474.107085
+SOS if i were as rich as TITLE darcy cried a young lucas who came with his sisters i should not care how proud i was EOS	317.416973
+SOS i would keep a pack of foxhounds and drink a bottle of wine every day EOS	575.521167
+SOS then you would drink a great deal more than you ought said TITLE bennet and if i were to see you at it i should take away your bottle directly EOS	342.218786
+SOS the boy protested that she should not she continued to declare that she would and the argument ended only with the visit EOS	401.759084
+SOS the ladies of longbourn soon waited on those of netherfield EOS	333.697907
+SOS the visit was returned in due form EOS	377.900788
+SOS miss bennet s pleasing manners grew on the good will of TITLE hurst and miss bingley and though the mother was found to be intolerable and the younger sisters not worth speaking to a wish of being better acquainted with them was expressed towards the two eldest EOS	417.340704
+SOS by jane this attention was received with the greatest pleasure but elizabeth still saw superciliousness in their treatment of every body hardly excepting even her sister and could not like them though their kindness to jane such as it was had a value as arising in all probability from the influence of their brother s admiration EOS	455.812456
+SOS it was generally evident whenever they met that he did admire her and to her it was equally evident that jane was yielding to the preference which she had begun to entertain for him from the first and was in a way to be very much in love but she considered with pleasure that it was not likely to be discovered by the world in general since jane united with great strength of feeling a composure of temper and a uniform cheerfulness of manner which would guard her from the suspicions of the impertinent EOS	385.306203
+SOS she mentioned this to her friend miss lucas EOS	209.451019
+SOS it may perhaps be pleasant replied charlotte to be able to impose on the public in such a case but it is sometimes a disadvantage to be so very guarded EOS	387.698801
+SOS if a woman conceals her affection with the same skill from the object of it she may lose the opportunity of fixing him and it will then be but poor consolation to believe the world equally in the dark EOS	337.671353
+SOS there is so much of gratitude or vanity in almost every attachment that it is not safe to leave any to itself EOS	364.254982
+SOS we can all begin freely a slight preference is natural enough but there are very few of us who have heart enough to be really in love without encouragement EOS	599.163408
+SOS in nine cases out of ten a woman had better shew more affection than she feels EOS	801.095837
+SOS bingley likes your sister undoubtedly but he may never do more than like her if she does not help him on EOS	386.305134
+SOS but she does help him on as much as her nature will allow EOS	264.269948
+SOS if i can perceive her regard for him he must be a simpleton indeed not to discover it too EOS	325.285673
+SOS remember eliza that he does not know jane s disposition as you do EOS	332.941255
+SOS but if a woman is partial to a man and does not endeavour to conceal it he must find it out EOS	281.042892
+SOS perhaps he must if he sees enough of her EOS	243.788200
+SOS but though bingley and jane meet tolerably often it is never for many hours together and as they always see each other in large mixed parties it is impossible that every moment should be employed in conversing together EOS	643.622072
+SOS jane should therefore make the most of every half hour in which she can command his attention EOS	357.561298
+SOS when she is secure of him there will be leisure for falling in love as much as she chuses EOS	354.069449
+SOS your plan is a good one replied elizabeth where nothing is in question but the desire of being well married and if i were determined to get a rich husband or any husband i dare say i should adopt it EOS	433.812996
+SOS but these are not jane s feelings she is not acting by design EOS	331.311923
+SOS as yet she cannot even be certain of the degree of her own regard nor of its reasonableness EOS	305.299011
+SOS she has known him only a fortnight EOS	238.024021
+SOS she danced four dances with him at meryton she saw him one morning at his own house and has since dined in company with him four times EOS	584.661139
+SOS this is not quite enough to make her understand his character EOS	236.909987
+SOS not as you represent it EOS	159.213149
+SOS had she merely dined with him she might only have discovered whether he had a good appetite but you must remember that four evenings have been also spent together and four evenings may do a great deal EOS	620.637009
+SOS yes these four evenings have enabled them to ascertain that they both like vingt un better than commerce but with respect to any other leading characteristic i do not imagine that much has been unfolded EOS	845.456032
+SOS well said charlotte i wish jane success with all my heart and if she were married to him to morrow i should think she had as good a chance of happiness as if she were to be studying his character for a twelvemonth EOS	295.534282
+SOS happiness in marriage is entirely a matter of chance EOS	359.424180
+SOS if the dispositions of the parties are ever so well known to each other or ever so similar before hand it does not advance their felicity in the least EOS	482.084359
+SOS they always continue to grow sufficiently unlike afterwards to have their share of vexation and it is better to know as little as possible of the defects of the person with whom you are to pass your life EOS	461.674060
+SOS you make me laugh charlotte but it is not sound EOS	308.164944
+SOS you know it is not sound and that you would never act in this way yourself EOS	268.866948
+SOS occupied in observing TITLE bingley s attentions to her sister elizabeth was far from suspecting that she was herself becoming an object of some interest in the eyes of his friend EOS	375.713640
+SOS TITLE darcy had at first scarcely allowed her to be pretty he had looked at her without admiration at the ball and when they next met he looked at her only to criticise EOS	314.141738
+SOS but no sooner had he made it clear to himself and his friends that she had hardly a good feature in her face than he began to find it was rendered uncommonly intelligent by the beautiful expression of her dark eyes EOS	464.859247
+SOS to this discovery succeeded some others equally mortifying EOS	1052.417450
+SOS though he had detected with a critical eye more than one failure of perfect symmetry in her form he was forced to acknowledge her figure to be light and pleasing and in spite of his asserting that her manners were not those of the fashionable world he was caught by their easy playfulness EOS	511.447931
+SOS of this she was perfectly unaware to her he was only the man who made himself agreeable no where and who had not thought her handsome enough to dance with EOS	264.817801
+SOS he began to wish to know more of her and as a step towards conversing with her himself attended to her conversation with others EOS	279.680554
+SOS his doing so drew her notice EOS	351.294584
+SOS it was at sir william lucas s where a large party were assembled EOS	503.233874
+SOS what does TITLE darcy mean said she to charlotte by listening to my conversation with colonel forster EOS	356.831825
+SOS that is a question which TITLE darcy only can answer EOS	240.063512
+SOS but if he does it any more i shall certainly let him know that i see what he is about EOS	245.851121
+SOS he has a very satirical eye and if i do not begin by being impertinent myself i shall soon grow afraid of him EOS	471.491624
+SOS on his approaching them soon afterwards though without seeming to have any intention of speaking miss lucas defied her friend to mention such a subject to him which immediately provoking elizabeth to do it she turned to him and said did not you think TITLE darcy that i expressed myself uncommonly well just now when i was teazing colonel forster to give us a ball at meryton EOS	461.910589
+SOS with great energy but it is a subject which always makes a lady energetic EOS	418.553171
+SOS you are severe on us EOS	266.428808
+SOS it will be her turn soon to be teazed said miss lucas EOS	300.910395
+SOS i am going to open the instrument eliza and you know what follows EOS	369.372175
+SOS you are a very strange creature by way of a friend EOS	279.868526
+SOS always wanting me to play and sing before any body and every body EOS	509.523605
+SOS if my vanity had taken a musical turn you would have been invaluable but as it is i would really rather not sit down before those who must be in the habit of hearing the very best performers EOS	463.133745
+SOS on miss lucas s persevering however she added very well if it must be so it must EOS	286.300719
+SOS and gravely glancing at TITLE darcy there is a fine old saying which every body here is of course familiar with keep your breath to cool your porridge and i shall keep mine to swell my song EOS	854.265596
+SOS her performance was pleasing though by no means capital EOS	589.096159
+SOS after a song or two and before she could reply to the entreaties of several that she would sing again she was eagerly succeeded at the instrument by her sister mary who having in consequence of being the only plain one in the family worked hard for knowledge and accomplishments was always impatient for display EOS	592.935687
+SOS mary had neither genius nor taste and though vanity had given her application it had given her likewise a pedantic air and conceited manner which would have injured a higher degree of excellence than she had reached EOS	876.495563
+SOS elizabeth easy and unaffected had been listened to with much more pleasure though not playing half so well and mary at the end of a long concerto was glad to purchase praise and gratitude by scotch and irish airs at the request of her younger sisters who with some of the lucases and two or three officers joined eagerly in dancing at one end of the room EOS	536.977787
+SOS TITLE darcy stood near them in silent indignation at such a mode of passing the evening to the exclusion of all conversation and was too much engrossed by his own thoughts to perceive that sir william lucas was his neighbour till sir william thus began EOS	599.186362
+SOS what a charming amusement for young people this is TITLE darcy EOS	356.284187
+SOS there is nothing like dancing after all EOS	339.611229
+SOS i consider it as one of the first refinements of polished societies EOS	254.181035
+SOS certainly sir and it has the advantage also of being in vogue amongst the less polished societies of the world EOS	397.267106
+SOS every savage can dance EOS	439.421194
+SOS sir william only smiled EOS	517.955619
+SOS your friend performs delightfully he continued after a pause on seeing bingley join the group and i doubt not that you are an adept in the science yourself TITLE darcy EOS	459.710567
+SOS you saw me dance at meryton i believe sir EOS	365.724141
+SOS yes indeed and received no inconsiderable pleasure from the sight EOS	409.767991
+SOS do you often dance at st EOS	428.169608
+SOS james s EOS	226.367245
+SOS never sir EOS	157.308658
+SOS do you not think it would be a proper compliment to the place EOS	191.356382
+SOS it is a compliment which i never pay to any place if i can avoid it EOS	279.699412
+SOS you have a house in town i conclude EOS	215.741404
+SOS TITLE darcy bowed EOS	294.627123
+SOS i had once some thoughts of fixing in town myself for i am fond of superior society but i did not feel quite certain that the air of london would agree with lady lucas EOS	459.978993
+SOS he paused in hopes of an answer but his companion was not disposed to make any and elizabeth at that instant moving towards them he was struck with the notion of doing a very gallant thing and called out to her my dear miss eliza why are not you dancing EOS	440.658150
+SOS TITLE darcy you must allow me to present this young lady to you as a very desirable partner EOS	290.192174
+SOS you cannot refuse to dance i am sure when so much beauty is before you EOS	359.135286
+SOS and taking her hand he would have given it to TITLE darcy who though extremely surprised was not unwilling to receive it when she instantly drew back and said with some discomposure to sir william indeed sir i have not the least intention of dancing EOS	447.750079
+SOS i entreat you not to suppose that i moved this way in order to beg for a partner EOS	374.693367
+SOS TITLE darcy with grave propriety requested to be allowed the honour of her hand but in vain EOS	367.582545
+SOS elizabeth was determined nor did sir william at all shake her purpose by his attempt at persuasion EOS	631.898863
+SOS you excel so much in the dance miss eliza that it is cruel to deny me the happiness of seeing you and though this gentleman dislikes the amusement in general he can have no objection i am sure to oblige us for one half hour EOS	481.265671
+SOS TITLE darcy is all politeness said elizabeth smiling EOS	304.374972
+SOS he is indeed but considering the inducement my dear miss eliza we cannot wonder at his complaisance for who would object to such a partner EOS	501.508548
+SOS elizabeth looked archly and turned away EOS	472.133895
+SOS her resistance had not injured her with the gentleman and he was thinking of her with some complacency when thus accosted by miss bingley i can guess the subject of your reverie EOS	457.012974
+SOS i should imagine not EOS	146.141989
+SOS you are considering how insupportable it would be to pass many evenings in this manner in such society and indeed i am quite of your opinion EOS	406.997922
+SOS i was never more annoyed EOS	166.181178
+SOS the insipidity and yet the noise the nothingness and yet the self importance of all these people EOS	366.903651
+SOS what would i give to hear your strictures on them EOS	222.724819
+SOS your conjecture is totally wrong i assure you EOS	535.266493
+SOS my mind was more agreeably engaged EOS	467.690375
+SOS i have been meditating on the very great pleasure which a pair of fine eyes in the face of a pretty woman can bestow EOS	471.000150
+SOS miss bingley immediately fixed her eyes on his face and desired he would tell her what lady had the credit of inspiring such reflections EOS	450.306011
+SOS TITLE darcy replied with great intrepidity miss elizabeth bennet EOS	294.283300
+SOS miss elizabeth bennet EOS	126.384566
+SOS repeated miss bingley EOS	261.548484
+SOS i am all astonishment EOS	154.279811
+SOS how long has she been such a favourite EOS	236.545532
+SOS and pray when am i to wish you joy EOS	224.797149
+SOS that is exactly the question which i expected you to ask EOS	227.793201
+SOS a lady s imagination is very rapid it jumps from admiration to love from love to matrimony in a moment EOS	468.528213
+SOS i knew you would be wishing me joy EOS	308.686766
+SOS nay if you are so serious about it i shall consider the matter as absolutely settled EOS	481.602501
+SOS you will have a charming mother in law indeed and of course she will be always at pemberley with you EOS	262.159955
+SOS he listened to her with perfect indifference while she chose to entertain herself in this manner and as his composure convinced her that all was safe her wit flowed long EOS	475.038648
+SOS TITLE bennet s property consisted almost entirely in an estate of two thousand a year which unfortunately for his daughters was entailed in default of heirs male on a distant relation and their mother s fortune though ample for her situation in life could but ill supply the deficiency of his EOS	706.065743
+SOS her father had been an attorney in meryton and had left her four thousand pounds EOS	422.893828
+SOS she had a sister married to a TITLE philips who had been a clerk to their father and succeeded him in the business and a brother settled in london in a respectable line of trade EOS	322.981680
+SOS the village of longbourn was only one mile from meryton a most convenient distance for the young ladies who were usually tempted thither three or four times a week to pay their duty to their aunt and to a milliner s shop just over the way EOS	769.851720
+SOS the two youngest of the family catherine and lydia were particularly frequent in these attentions their minds were more vacant than their sisters and when nothing better offered a walk to meryton was necessary to amuse their morning hours and furnish conversation for the evening and however bare of news the country in general might be they always contrived to learn some from their aunt EOS	621.339349
+SOS at present indeed they were well supplied both with news and happiness by the recent arrival of a militia regiment in the neighbourhood it was to remain the whole winter and meryton was the head quarters EOS	491.617255
+SOS their visits to TITLE philips were now productive of the most interesting intelligence EOS	449.355402
+SOS every day added something to their knowledge of the officers names and connections EOS	422.974649
+SOS their lodgings were not long a secret and at length they began to know the officers themselves EOS	426.881953
+SOS TITLE philips visited them all and this opened to his nieces a source of felicity unknown before EOS	575.118468
+SOS they could talk of nothing but officers and TITLE bingley s large fortune the mention of which gave animation to their mother was worthless in their eyes when opposed to the regimentals of an ensign EOS	453.639311
+SOS after listening one morning to their effusions on this subject TITLE bennet coolly observed from all that i can collect by your manner of talking you must be two of the silliest girls in the country EOS	495.076584
+SOS i have suspected it some time but i am now convinced EOS	258.471771
+SOS catherine was disconcerted and made no answer but lydia with perfect indifference continued to express her admiration of captain carter and her hope of seeing him in the course of the day as he was going the next morning to london EOS	363.244897
+SOS i am astonished my dear said TITLE bennet that you should be so ready to think your own children silly EOS	360.434725
+SOS if i wished to think slightingly of any body s children it should not be of my own however EOS	260.819435
+SOS if my children are silly i must hope to be always sensible of it EOS	289.856598
+SOS yes but as it happens they are all of them very clever EOS	322.099292
+SOS this is the only point i flatter myself on which we do not agree EOS	354.383160
+SOS i had hoped that our sentiments coincided in every particular but i must so far differ from you as to think our two youngest daughters uncommonly foolish EOS	642.979999
+SOS my dear TITLE bennet you must not expect such girls to have the sense of their father and mother EOS	229.072237
+SOS when they get to our age i dare say they will not think about officers any more than we do EOS	428.510464
+SOS i remember the time when i liked a red coat myself very well and indeed so i do still at my heart and if a smart young colonel with five or six thousand a year should want one of my girls i shall not say nay to him and i thought colonel forster looked very becoming the other night at sir william s in his regimentals EOS	567.415437
+SOS mama cried lydia my aunt says that colonel forster and captain carter do not go so often to miss watson s as they did when they first came she sees them now very often standing in clarke s library EOS	636.476218
+SOS TITLE bennet was prevented replying by the entrance of the footman with a note for miss bennet it came from netherfield and the servant waited for an answer EOS	438.233360
+SOS TITLE bennet s eyes sparkled with pleasure and she was eagerly calling out while her daughter read well jane who is it from EOS	401.424460
+SOS what is it about EOS	116.567924
+SOS what does he say EOS	166.256346
+SOS well jane make haste and tell us make haste my love EOS	564.306120
+SOS it is from miss bingley said jane and then read it aloud EOS	276.088425
+SOS my dear friend if you are not so compassionate as to dine to day with louisa and me we shall be in danger of hating each other for the rest of our lives for a whole day s tête à tête between two women can never end without a quarrel EOS	669.699032
+SOS come as soon as you can on the receipt of this EOS	215.471166
+SOS my brother and the gentlemen are to dine with the officers EOS	224.903062
+SOS yours ever caroline bingley EOS	636.445928
+SOS with the officers EOS	107.918752
+SOS cried lydia EOS	162.247025
+SOS i wonder my aunt did not tell us of that EOS	215.232424
+SOS dining out said TITLE bennet that is very unlucky EOS	333.414968
+SOS can i have the carriage EOS	119.789683
+SOS said jane EOS	97.360048
+SOS no my dear you had better go on horseback because it seems likely to rain and then you must stay all night EOS	485.648883
+SOS that would be a good scheme said elizabeth if you were sure that they would not offer to send her home EOS	257.557329
+SOS oh EOS	90.689046
+SOS but the gentlemen will have TITLE bingley s chaise to go to meryton and the hursts have no horses to theirs EOS	338.342806
+SOS i had much rather go in the coach EOS	213.996325
+SOS but my dear your father cannot spare the horses i am sure EOS	410.752812
+SOS they are wanted in the farm TITLE bennet are not they EOS	272.157773
+SOS they are wanted in the farm much oftener than i can get them EOS	501.028698
+SOS but if you have got them to day said elizabeth my mother s purpose will be answered EOS	293.362480
+SOS she did at last extort from her father an acknowledgment that the horses were engaged EOS	422.670463
+SOS jane was therefore obliged to go on horseback and her mother attended her to the door with many cheerful prognostics of a bad day EOS	374.654485
+SOS her hopes were answered jane had not been gone long before it rained hard EOS	441.117302
+SOS her sisters were uneasy for her but her mother was delighted EOS	236.665234
+SOS the rain continued the whole evening without intermission jane certainly could not come back EOS	686.297978
+SOS this was a lucky idea of mine indeed EOS	350.677954
+SOS said TITLE bennet more than once as if the credit of making it rain were all her own EOS	319.010448
+SOS till the next morning however she was not aware of all the felicity of her contrivance EOS	273.742564
+SOS breakfast was scarcely over when a servant from netherfield brought the following note for elizabeth my dearest lizzy i find myself very unwell this morning which i suppose is to be imputed to my getting wet through yesterday EOS	760.157870
+SOS my kind friends will not hear of my returning home till i am better EOS	390.099058
+SOS they insist also on my seeing TITLE jones therefore do not be alarmed if you should hear of his having been to me and excepting a sore throat and head ache there is not much the matter with me EOS	448.817805
+SOS yours c EOS	608.405858
+SOS well my dear said TITLE bennet when elizabeth had read the note aloud if your daughter should have a dangerous fit of illness if she should die it would be a comfort to know that it was all in pursuit of TITLE bingley and under your orders EOS	424.907638
+SOS oh EOS	90.689046
+SOS i am not at all afraid of her dying EOS	213.678723
+SOS people do not die of little trifling colds EOS	669.455898
+SOS she will be taken good care of EOS	200.395375
+SOS as long as she stays there it is all very well EOS	197.837698
+SOS i would go and see her if i could have the carriage EOS	150.056254
+SOS elizabeth feeling really anxious was determined to go to her though the carriage was not to be had and as she was no horse woman walking was her only alternative EOS	298.219005
+SOS she declared her resolution EOS	236.239714
+SOS how can you be so silly cried her mother as to think of such a thing in all this dirt EOS	242.486839
+SOS you will not be fit to be seen when you get there EOS	249.217560
+SOS i shall be very fit to see jane which is all i want EOS	264.248153
+SOS is this a hint to me lizzy said her father to send for the horses EOS	265.772463
+SOS no indeed EOS	124.135260
+SOS i do not wish to avoid the walk EOS	183.867714
+SOS the distance is nothing when one has a motive only three miles EOS	444.532219
+SOS i shall be back by dinner EOS	236.205158
+SOS i admire the activity of your benevolence observed mary but every impulse of feeling should be guided by reason and in my opinion exertion should always be in proportion to what is required EOS	675.107372
+SOS we will go as far as meryton with you said catherine and lydia EOS	255.587882
+SOS elizabeth accepted their company and the three young ladies set off together EOS	553.249936
+SOS if we make haste said lydia as they walked along perhaps we may see something of captain carter before he goes EOS	785.783269
+SOS in meryton they parted the two youngest repaired to the lodgings of one of the officers wives and elizabeth continued her walk alone crossing field after field at a quick pace jumping over stiles and springing over puddles with impatient activity and finding herself at last within view of the house with weary ancles dirty stockings and a face glowing with the warmth of exercise EOS	1098.066291
+SOS she was shewn into the breakfast parlour where all but jane were assembled and where her appearance created a great deal of surprise EOS	567.675675
+SOS that she should have walked three miles so early in the day in such dirty weather and by herself was almost incredible to TITLE hurst and miss bingley and elizabeth was convinced that they held her in contempt for it EOS	409.464478
+SOS she was received however very politely by them and in their brother s manners there was something better than politeness there was good humour and kindness EOS	441.831194
+SOS TITLE darcy said very little and TITLE hurst nothing at all EOS	225.620216
+SOS the former was divided between admiration of the brilliancy which exercise had given to her complexion and doubt as to the occasion s justifying her coming so far alone EOS	497.803699
+SOS the latter was thinking only of his breakfast EOS	243.667037
+SOS her enquiries after her sister were not very favourably answered EOS	314.860841
+SOS miss bennet had slept ill and though up was very feverish and not well enough to leave her room EOS	293.252965
+SOS elizabeth was glad to be taken to her immediately and jane who had only been withheld by the fear of giving alarm or inconvenience from expressing in her note how much she longed for such a visit was delighted at her entrance EOS	468.718370
+SOS she was not equal however to much conversation and when miss bingley left them together could attempt little beside expressions of gratitude for the extraordinary kindness she was treated with EOS	450.800757
+SOS elizabeth silently attended her EOS	390.436721
+SOS when breakfast was over they were joined by the sisters and elizabeth began to like them herself when she saw how much affection and solicitude they shewed for jane EOS	395.001186
+SOS the apothecary came and having examined his patient said as might be supposed that she had caught a violent cold and that they must endeavour to get the better of it advised her to return to bed and promised her some draughts EOS	437.978980
+SOS the advice was followed readily for the feverish symptoms increased and her head ached acutely EOS	829.215664
+SOS elizabeth did not quit her room for a moment nor were the other ladies often absent the gentlemen being out they had in fact nothing to do elsewhere EOS	452.835093
+SOS when the clock struck three elizabeth felt that she must go and very unwillingly said so EOS	435.299049
+SOS miss bingley offered her the carriage and she only wanted a little pressing to accept it when jane testified such concern in parting with her that miss bingley was obliged to convert the offer of the chaise into an invitation to remain at netherfield for the present EOS	468.538909
+SOS elizabeth most thankfully consented and a servant was dispatched to longbourn to acquaint the family with her stay and bring back a supply of clothes EOS	583.097553
+SOS at five o clock the two ladies retired to dress and at half past six elizabeth was summoned to dinner EOS	1035.710899
+SOS to the civil enquiries which then poured in and amongst which she had the pleasure of distinguishing the much superior solicitude of TITLE bingley s she could not make a very favourable answer EOS	336.932687
+SOS jane was by no means better EOS	213.690398
+SOS the sisters on hearing this repeated three or four times how much they were grieved how shocking it was to have a bad cold and how excessively they disliked being ill themselves and then thought no more of the matter and their indifference towards jane when not immediately before them restored elizabeth to the enjoyment of all her original dislike EOS	611.211442
+SOS their brother indeed was the only one of the party whom she could regard with any complacency EOS	310.356588
+SOS his anxiety for jane was evident and his attentions to herself most pleasing and they prevented her feeling herself so much an intruder as she believed she was considered by the others EOS	352.459281
+SOS she had very little notice from any but him EOS	193.745604
+SOS miss bingley was engrossed by TITLE darcy her sister scarcely less so and as for TITLE hurst by whom elizabeth sat he was an indolent man who lived only to eat drink and play at cards who when he found her prefer a plain dish to a ragout had nothing to say to her EOS	505.856280
+SOS when dinner was over she returned directly to jane and miss bingley began abusing her as soon as she was out of the room EOS	288.536328
+SOS her manners were pronounced to be very bad indeed a mixture of pride and impertinence she had no conversation no style no taste no beauty EOS	530.390306
+SOS TITLE hurst thought the same and added she has nothing in short to recommend her but being an excellent walker EOS	450.756014
+SOS i shall never forget her appearance this morning EOS	334.388397
+SOS she really looked almost wild EOS	429.305482
+SOS she did indeed louisa EOS	346.207182
+SOS i could hardly keep my countenance EOS	343.147463
+SOS very nonsensical to come at all EOS	247.699077
+SOS why must she be scampering about the country because her sister had a cold EOS	336.703780
+SOS her hair so untidy so blowsy EOS	475.301043
+SOS yes and her petticoat i hope you saw her petticoat six inches deep in mud i am absolutely certain and the gown which had been let down to hide it not doing its office EOS	583.447838
+SOS your picture may be very exact louisa said bingley but this was all lost upon me EOS	561.186202
+SOS i thought miss elizabeth bennet looked remarkably well when she came into the room this morning EOS	382.583668
+SOS her dirty petticoat quite escaped my notice EOS	1012.076080
+SOS you observed it TITLE darcy i am sure said miss bingley and i am inclined to think that you would not wish to see your sister make such an exhibition EOS	307.545900
+SOS certainly not EOS	100.822510
+SOS to walk three miles or four miles or five miles or whatever it is above her ancles in dirt and alone quite alone EOS	859.013763
+SOS what could she mean by it EOS	148.028458
+SOS it seems to me to shew an abominable sort of conceited independence a most country town indifference to decorum EOS	816.257987
+SOS it shews an affection for her sister that is very pleasing said bingley EOS	326.537444
+SOS i am afraid TITLE darcy observed miss bingley in a half whisper that this adventure has rather affected your admiration of her fine eyes EOS	599.016896
+SOS not at all he replied they were brightened by the exercise EOS	254.110733
+SOS a short pause followed this speech and TITLE hurst began again EOS	627.605261
+SOS i have an excessive regard for jane bennet she is really a very sweet girl and i wish with all my heart she were well settled EOS	365.367010
+SOS but with such a father and mother and such low connections i am afraid there is no chance of it EOS	280.069418
+SOS i think i have heard you say that their uncle is an attorney in meryton EOS	307.755304
+SOS yes and they have another who lives somewhere near cheapside EOS	791.630285
+SOS that is capital added her sister and they both laughed heartily EOS	476.328133
+SOS if they had uncles enough to fill all cheapside cried bingley it would not make them one jot less agreeable EOS	530.728438
+SOS but it must very materially lessen their chance of marrying men of any consideration in the world replied darcy EOS	499.164075
+SOS to this speech bingley made no answer but his sisters gave it their hearty assent and indulged their mirth for some time at the expense of their dear friend s vulgar relations EOS	705.121728
+SOS with a renewal of tenderness however they repaired to her room on leaving the dining parlour and sat with her till summoned to coffee EOS	592.158679
+SOS she was still very poorly and elizabeth would not quit her at all till late in the evening when she had the comfort of seeing her asleep and when it appeared to her rather right than pleasant that she should go down stairs herself EOS	358.145438
+SOS on entering the drawing room she found the whole party at loo and was immediately invited to join them but suspecting them to be playing high she declined it and making her sister the excuse said she would amuse herself for the short time she could stay below with a book EOS	540.825575
+SOS TITLE hurst looked at her with astonishment EOS	283.074344
+SOS do you prefer reading to cards EOS	571.750169
+SOS said he that is rather singular EOS	305.483312
+SOS miss eliza bennet said miss bingley despises cards EOS	756.567025
+SOS she is a great reader and has no pleasure in anything else EOS	344.197370
+SOS i deserve neither such praise nor such censure cried elizabeth i am not a great reader and i have pleasure in many things EOS	478.670402
+SOS in nursing your sister i am sure you have pleasure said bingley and i hope it will soon be increased by seeing her quite well EOS	312.604462
+SOS elizabeth thanked him from her heart and then walked towards a table where a few books were lying EOS	533.880495
+SOS he immediately offered to fetch her others all that his library afforded EOS	569.515855
+SOS and i wish my collection were larger for your benefit and my own credit but i am an idle fellow and though i have not many i have more than i ever look into EOS	383.928940
+SOS elizabeth assured him that she could suit herself perfectly with those in the room EOS	291.029752
+SOS i am astonished said miss bingley that my father should have left so small a collection of books EOS	404.940536
+SOS what a delightful library you have at pemberley TITLE darcy EOS	273.308515
+SOS it ought to be good he replied it has been the work of many generations EOS	237.309770
+SOS and then you have added so much to it yourself you are always buying books EOS	302.827541
+SOS i cannot comprehend the neglect of a family library in such days as these EOS	350.197309
+SOS neglect EOS	199.036500
+SOS i am sure you neglect nothing that can add to the beauties of that noble place EOS	387.277529
+SOS charles when you build your house i wish it may be half as delightful as pemberley EOS	454.571805
+SOS i wish it may EOS	120.545319
+SOS but i would really advise you to make your purchase in that neighbourhood and take pemberley for a kind of model EOS	407.826604
+SOS there is not a finer county in england than derbyshire EOS	616.823535
+SOS with all my heart i will buy pemberley itself if darcy will sell it EOS	464.899727
+SOS i am talking of possibilities charles EOS	392.946838
+SOS upon my word caroline i should think it more possible to get pemberley by purchase than by imitation EOS	590.429262
+SOS elizabeth was so much caught by what passed as to leave her very little attention for her book and soon laying it wholly aside she drew near the card table and stationed herself between TITLE bingley and his eldest sister to observe the game EOS	617.311008
+SOS is miss darcy much grown since the spring EOS	491.002661
+SOS said miss bingley will she be as tall as i am EOS	211.644768
+SOS i think she will EOS	89.358462
+SOS she is now about miss elizabeth bennet s height or rather taller EOS	484.208279
+SOS how i long to see her again EOS	145.896134
+SOS i never met with anybody who delighted me so much EOS	409.446668
+SOS such a countenance such manners EOS	261.014808
+SOS and so extremely accomplished for her age EOS	378.015902
+SOS her performance on the piano forte is exquisite EOS	667.618181
+SOS it is amazing to me said bingley how young ladies can have patience to be so very accomplished as they all are EOS	381.038941
+SOS all young ladies accomplished EOS	480.673672
+SOS my dear charles what do you mean EOS	399.955550
+SOS yes all of them i think EOS	133.276384
+SOS they all paint tables cover skreens and net purses EOS	837.733901
+SOS i scarcely know any one who cannot do all this and i am sure i never heard a young lady spoken of for the first time without being informed that she was very accomplished EOS	342.399978
+SOS your list of the common extent of accomplishments said darcy has too much truth EOS	614.281624
+SOS the word is applied to many a woman who deserves it no otherwise than by netting a purse or covering a skreen EOS	622.811980
+SOS but i am very far from agreeing with you in your estimation of ladies in general EOS	337.639529
+SOS i cannot boast of knowing more than half a dozen in the whole range of my acquaintance that are really accomplished EOS	580.885391
+SOS nor i i am sure said miss bingley EOS	227.536529
+SOS then observed elizabeth you must comprehend a great deal in your idea of an accomplished woman EOS	501.413737
+SOS yes i do comprehend a great deal in it EOS	264.001859
+SOS oh EOS	90.689046
+SOS certainly cried his faithful assistant no one can be really esteemed accomplished who does not greatly surpass what is usually met with EOS	1009.704809
+SOS a woman must have a thorough knowledge of music singing drawing dancing and the modern languages to deserve the word and besides all this she must possess a certain something in her air and manner of walking the tone of her voice her address and expressions or the word will be but half deserved EOS	599.418858
+SOS all this she must possess added darcy and to all this she must yet add something more substantial in the improvement of her mind by extensive reading EOS	508.467444
+SOS i am no longer surprised at your knowing only six accomplished women EOS	808.265898
+SOS i rather wonder now at your knowing any EOS	333.150577
+SOS are you so severe upon your own sex as to doubt the possibility of all this EOS	361.261464
+SOS i never saw such a woman EOS	191.013675
+SOS i never saw such capacity and taste and application and elegance as you describe united EOS	538.151404
+SOS TITLE hurst and miss bingley both cried out against the injustice of her implied doubt and were both protesting that they knew many women who answered this description when TITLE hurst called them to order with bitter complaints of their inattention to what was going forward EOS	818.484659
+SOS as all conversation was thereby at an end elizabeth soon afterwards left the room EOS	372.992870
+SOS eliza bennet said miss bingley when the door was closed on her is one of those young ladies who seek to recommend themselves to the other sex by undervaluing their own and with many men i dare say it succeeds EOS	527.141332
+SOS but in my opinion it is a paltry device a very mean art EOS	453.439977
+SOS undoubtedly replied darcy to whom this remark was chiefly addressed there is meanness in all the arts which ladies sometimes condescend to employ for captivation EOS	825.346574
+SOS whatever bears affinity to cunning is despicable EOS	1148.561455
+SOS miss bingley was not so entirely satisfied with this reply as to continue the subject EOS	324.775276
+SOS elizabeth joined them again only to say that her sister was worse and that she could not leave her EOS	203.372110
+SOS bingley urged TITLE jones s being sent for immediately while his sisters convinced that no country advice could be of any service recommended an express to town for one of the most eminent physicians EOS	636.886538
+SOS this she would not hear of but she was not so unwilling to comply with their brother s proposal and it was settled that TITLE jones should be sent for early in the morning if miss bennet were not decidedly better EOS	348.853862
+SOS bingley was quite uncomfortable his sisters declared that they were miserable EOS	528.975976
+SOS they solaced their wretchedness however by duets after supper while he could find no better relief to his feelings than by giving his housekeeper directions that every possible attention might be paid to the sick lady and her sister EOS	638.940470
+SOS elizabeth passed the chief of the night in her sister s room and in the morning had the pleasure of being able to send a tolerable answer to the enquiries which she very early received from TITLE bingley by a housemaid and some time afterwards from the two elegant ladies who waited on his sisters EOS	374.698767
+SOS in spite of this amendment however she requested to have a note sent to longbourn desiring her mother to visit jane and form her own judgment of her situation EOS	495.822226
+SOS the note was immediately dispatched and its contents as quickly complied with EOS	892.330490
+SOS TITLE bennet accompanied by her two youngest girls reached netherfield soon after the family breakfast EOS	676.387712
+SOS had she found jane in any apparent danger TITLE bennet would have been very miserable but being satisfied on seeing her that her illness was not alarming she had no wish of her recovering immediately as her restoration to health would probably remove her from netherfield EOS	502.431872
+SOS she would not listen therefore to her daughter s proposal of being carried home neither did the apothecary who arrived about the same time think it at all advisable EOS	506.598142
+SOS after sitting a little while with jane on miss bingley s appearance and invitation the mother and three daughters all attended her into the breakfast parlour EOS	458.438530
+SOS bingley met them with hopes that TITLE bennet had not found miss bennet worse than she expected EOS	387.276197
+SOS indeed i have sir was her answer EOS	177.761807
+SOS she is a great deal too ill to be moved EOS	280.637877
+SOS TITLE jones says we must not think of moving her EOS	357.744186
+SOS we must trespass a little longer on your kindness EOS	379.418813
+SOS removed EOS	161.926386
+SOS cried bingley EOS	155.466432
+SOS it must not be thought of EOS	97.063226
+SOS my sister i am sure will not hear of her removal EOS	231.806722
+SOS you may depend upon it madam said miss bingley with cold civility that miss bennet shall receive every possible attention while she remains with us EOS	663.240892
+SOS TITLE bennet was profuse in her acknowledgments EOS	262.677837
+SOS i am sure she added if it was not for such good friends i do not know what would become of her for she is very ill indeed and suffers a vast deal though with the greatest patience in the world which is always the way with her for she has without exception the sweetest temper i ever met with EOS	345.165413
+SOS i often tell my other girls they are nothing to her EOS	240.015757
+SOS you have a sweet room here TITLE bingley and a charming prospect over that gravel walk EOS	545.258393
+SOS i do not know a place in the country that is equal to netherfield EOS	194.378313
+SOS you will not think of quitting it in a hurry i hope though you have but a short lease EOS	262.128056
+SOS whatever i do is done in a hurry replied he and therefore if i should resolve to quit netherfield i should probably be off in five minutes EOS	493.203417
+SOS at present however i consider myself as quite fixed here EOS	486.273006
+SOS that is exactly what i should have supposed of you said elizabeth EOS	190.137333
+SOS you begin to comprehend me do you EOS	226.856877
+SOS cried he turning towards her EOS	291.234425
+SOS oh EOS	90.689046
+SOS yes i understand you perfectly EOS	259.823957
+SOS i wish i might take this for a compliment but to be so easily seen through i am afraid is pitiful EOS	382.104519
+SOS that is as it happens EOS	167.712968
+SOS it does not necessarily follow that a deep intricate character is more or less estimable than such a one as yours EOS	644.921097
+SOS lizzy cried her mother remember where you are and do not run on in the wild manner that you are suffered to do at home EOS	360.419537
+SOS i did not know before continued bingley immediately that you were a studier of character EOS	264.201344
+SOS it must be an amusing study EOS	502.937539
+SOS yes but intricate characters are the most amusing EOS	723.917420
+SOS they have at least that advantage EOS	198.169258
+SOS the country said darcy can in general supply but few subjects for such a study EOS	531.817406
+SOS in a country neighbourhood you move in a very confined and unvarying society EOS	498.973945
+SOS but people themselves alter so much that there is something new to be observed in them for ever EOS	368.403450
+SOS yes indeed cried TITLE bennet offended by his manner of mentioning a country neighbourhood EOS	593.147576
+SOS i assure you there is quite as much of that going on in the country as in town EOS	203.608592
+SOS every body was surprised and darcy after looking at her for a moment turned silently away EOS	440.928209
+SOS TITLE bennet who fancied she had gained a complete victory over him continued her triumph EOS	600.839778
+SOS i cannot see that london has any great advantage over the country for my part except the shops and public places EOS	557.409447
+SOS the country is a vast deal pleasanter is not it TITLE bingley EOS	325.788760
+SOS when i am in the country he replied i never wish to leave it and when i am in town it is pretty much the same EOS	222.543615
+SOS they have each their advantages and i can be equally happy in either EOS	327.015763
+SOS aye that is because you have the right disposition EOS	335.891590
+SOS but that gentleman looking at darcy seemed to think the country was nothing at all EOS	248.131757
+SOS indeed mama you are mistaken said elizabeth blushing for her mother EOS	386.749305
+SOS you quite mistook TITLE darcy EOS	215.270211
+SOS he only meant that there were not such a variety of people to be met with in the country as in town which you must acknowledge to be true EOS	277.903502
+SOS certainly my dear nobody said there were but as to not meeting with many people in this neighbourhood i believe there are few neighbourhoods larger EOS	486.300700
+SOS i know we dine with four and twenty families EOS	536.643382
+SOS nothing but concern for elizabeth could enable bingley to keep his countenance EOS	369.433193
+SOS his sister was less delicate and directed her eye towards TITLE darcy with a very expressive smile EOS	524.157596
+SOS elizabeth for the sake of saying something that might turn her mother s thoughts now asked her if charlotte lucas had been at longbourn since her coming away EOS	412.740134
+SOS yes she called yesterday with her father EOS	296.947307
+SOS what an agreeable man sir william is TITLE bingley is not he EOS	287.959265
+SOS so much the man of fashion EOS	194.321410
+SOS so genteel and so easy EOS	319.117675
+SOS he has always something to say to every body EOS	230.563426
+SOS that is my idea of good breeding and those persons who fancy themselves very important and never open their mouths quite mistake the matter EOS	836.407858
+SOS did charlotte dine with you EOS	245.571739
+SOS no she would go home EOS	187.075015
+SOS i fancy she was wanted about the mince pies EOS	353.655232
+SOS for my part TITLE bingley i always keep servants that can do their own work my daughters are brought up differently EOS	619.014171
+SOS but every body is to judge for themselves and the lucases are very good sort of girls i assure you EOS	352.547377
+SOS it is a pity they are not handsome EOS	228.086865
+SOS not that i think charlotte so very plain but then she is our particular friend EOS	323.454970
+SOS she seems a very pleasant young woman said bingley EOS	397.943894
+SOS oh EOS	90.689046
+SOS dear yes but you must own she is very plain EOS	279.542606
+SOS lady lucas herself has often said so and envied me jane s beauty EOS	492.241141
+SOS i do not like to boast of my own child but to be sure jane one does not often see any body better looking EOS	383.780027
+SOS it is what every body says EOS	283.761358
+SOS i do not trust my own partiality EOS	287.909913
+SOS when she was only fifteen there was a gentleman at my brother gardiner s in town so much in love with her that my sister in law was sure he would make her an offer before we came away EOS	332.361154
+SOS but however he did not EOS	119.367542
+SOS perhaps he thought her too young EOS	227.755445
+SOS however he wrote some verses on her and very pretty they were EOS	303.851778
+SOS and so ended his affection said elizabeth impatiently EOS	433.979041
+SOS there has been many a one i fancy overcome in the same way EOS	320.697635
+SOS i wonder who first discovered the efficacy of poetry in driving away love EOS	582.129638
+SOS i have been used to consider poetry as the food of love said darcy EOS	269.654204
+SOS of a fine stout healthy love it may EOS	345.065740
+SOS every thing nourishes what is strong already EOS	483.793969
+SOS but if it be only a slight thin sort of inclination i am convinced that one good sonnet will starve it entirely away EOS	500.269932
+SOS darcy only smiled and the general pause which ensued made elizabeth tremble lest her mother should be exposing herself again EOS	724.973548
+SOS she longed to speak but could think of nothing to say and after a short silence TITLE bennet began repeating her thanks to TITLE bingley for his kindness to jane with an apology for troubling him also with lizzy EOS	379.268424
+SOS TITLE bingley was unaffectedly civil in his answer and forced his younger sister to be civil also and say what the occasion required EOS	473.428825
+SOS she performed her part indeed without much graciousness but TITLE bennet was satisfied and soon afterwards ordered her carriage EOS	490.424896
+SOS upon this signal the youngest of her daughters put herself forward EOS	613.562524
+SOS the two girls had been whispering to each other during the whole visit and the result of it was that the youngest should tax TITLE bingley with having promised on his first coming into the country to give a ball at netherfield EOS	451.176015
+SOS lydia was a stout well grown girl of fifteen with a fine complexion and good humoured countenance a favourite with her mother whose affection had brought her into public at an early age EOS	784.504947
+SOS she had high animal spirits and a sort of natural self consequence which the attentions of the officers to whom her uncle s good dinners and her own easy manners recommended her had increased into assurance EOS	530.945588
+SOS she was very equal therefore to address TITLE bingley on the subject of the ball and abruptly reminded him of his promise adding that it would be the most shameful thing in the world if he did not keep it EOS	363.740659
+SOS his answer to this sudden attack was delightful to their mother s ear EOS	442.131553
+SOS i am perfectly ready i assure you to keep my engagement and when your sister is recovered you shall if you please name the very day of the ball EOS	396.819958
+SOS but you would not wish to be dancing while she is ill EOS	211.994828
+SOS lydia declared herself satisfied EOS	461.781938
+SOS oh EOS	90.689046
+SOS yes it would be much better to wait till jane was well and by that time most likely captain carter would be at meryton again EOS	383.818288
+SOS and when you have given your ball she added i shall insist on their giving one also EOS	416.137578
+SOS i shall tell colonel forster it will be quite a shame if he does not EOS	339.422859
+SOS TITLE bennet and her daughters then departed and elizabeth returned instantly to jane leaving her own and her relations behaviour to the remarks of the two ladies and TITLE darcy the latter of whom however could not be prevailed on to join in their censure of her in spite of all miss bingley s witticisms on fine eyes EOS	363.538337
+SOS the day passed much as the day before had done EOS	199.436733
+SOS TITLE hurst and miss bingley had spent some hours of the morning with the invalid who continued though slowly to mend and in the evening elizabeth joined their party in the drawing room EOS	453.207363
+SOS the loo table however did not appear EOS	344.922261
+SOS TITLE darcy was writing and miss bingley seated near him was watching the progress of his letter and repeatedly calling off his attention by messages to his sister EOS	469.299192
+SOS TITLE hurst and TITLE bingley were at piquet and TITLE hurst was observing their game EOS	473.246230
+SOS elizabeth took up some needlework and was sufficiently amused in attending to what passed between darcy and his companion EOS	533.533972
+SOS the perpetual commendations of the lady either on his hand writing or on the evenness of his lines or on the length of his letter with the perfect unconcern with which her praises were received formed a curious dialogue and was exactly in unison with her opinion of each EOS	509.944995
+SOS how delighted miss darcy will be to receive such a letter EOS	278.927389
+SOS he made no answer EOS	183.177727
+SOS you write uncommonly fast EOS	699.236048
+SOS you are mistaken EOS	168.880274
+SOS i write rather slowly EOS	516.234936
+SOS how many letters you must have occasion to write in the course of the year EOS	274.540565
+SOS letters of business too EOS	278.591808
+SOS how odious i should think them EOS	349.167300
+SOS it is fortunate then that they fall to my lot instead of to yours EOS	446.175699
+SOS pray tell your sister that i long to see her EOS	216.273014
+SOS i have already told her so once by your desire EOS	305.554525
+SOS i am afraid you do not like your pen EOS	337.010556
+SOS let me mend it for you EOS	269.651680
+SOS i mend pens remarkably well EOS	801.246046
+SOS thank you but i always mend my own EOS	371.519909
+SOS how can you contrive to write so even EOS	368.478561
+SOS he was silent EOS	112.426212
+SOS tell your sister i am delighted to hear of her improvement on the harp and pray let her know that i am quite in raptures with her beautiful little design for a table and i think it infinitely superior to miss grantley s EOS	413.864492
+SOS will you give me leave to defer your raptures till i write again EOS	523.697667
+SOS at present i have not room to do them justice EOS	208.495689
+SOS oh EOS	90.689046
+SOS it is of no consequence EOS	118.378736
+SOS i shall see her in january EOS	240.081366
+SOS but do you always write such charming long letters to her TITLE darcy EOS	325.953189
+SOS they are generally long but whether always charming it is not for me to determine EOS	366.832870
+SOS it is a rule with me that a person who can write a long letter with ease cannot write ill EOS	460.940678
+SOS that will not do for a compliment to darcy caroline cried her brother because he does not write with ease EOS	348.897477
+SOS he studies too much for words of four syllables EOS	554.043284
+SOS do not you darcy EOS	94.208982
+SOS my style of writing is very different from yours EOS	521.603088
+SOS oh EOS	90.689046
+SOS cried miss bingley charles writes in the most careless way imaginable EOS	1062.729515
+SOS he leaves out half his words and blots the rest EOS	462.208680
+SOS my ideas flow so rapidly that i have not time to express them by which means my letters sometimes convey no ideas at all to my correspondents EOS	507.336240
+SOS your humility TITLE bingley said elizabeth must disarm reproof EOS	645.370539
+SOS nothing is more deceitful said darcy than the appearance of humility EOS	481.640759
+SOS it is often only carelessness of opinion and sometimes an indirect boast EOS	452.625610
+SOS and which of the two do you call my little recent piece of modesty EOS	369.327301
+SOS the indirect boast for you are really proud of your defects in writing because you consider them as proceeding from a rapidity of thought and carelessness of execution which if not estimable you think at least highly interesting EOS	633.987421
+SOS the power of doing any thing with quickness is always much prized by the possessor and often without any attention to the imperfection of the performance EOS	395.374782
+SOS when you told TITLE bennet this morning that if you ever resolved on quitting netherfield you should be gone in five minutes you meant it to be a sort of panegyric of compliment to yourself and yet what is there so very laudable in a precipitance which must leave very necessary business undone and can be of no real advantage to yourself or any one else EOS	455.273052
+SOS nay cried bingley this is too much to remember at night all the foolish things that were said in the morning EOS	396.620816
+SOS and yet upon my honour i believed what i said of myself to be true and i believe it at this moment EOS	242.115334
+SOS at least therefore i did not assume the character of needless precipitance merely to shew off before the ladies EOS	603.485868
+SOS i dare say you believed it but i am by no means convinced that you would be gone with such celerity EOS	300.007948
+SOS your conduct would be quite as dependant on chance as that of any man i know and if as you were mounting your horse a friend were to say bingley you had better stay till next week you would probably do it you would probably not go and at another word might stay a month EOS	469.509873
+SOS you have only proved by this cried elizabeth that TITLE bingley did not do justice to his own disposition EOS	305.857090
+SOS you have shewn him off now much more than he did himself EOS	335.572520
+SOS i am exceedingly gratified said bingley by your converting what my friend says into a compliment on the sweetness of my temper EOS	529.895802
+SOS but i am afraid you are giving it a turn which that gentleman did by no means intend for he would certainly think the better of me if under such a circumstance i were to give a flat denial and ride off as fast as i could EOS	438.232254
+SOS would TITLE darcy then consider the rashness of your original intention as atoned for by your obstinacy in adhering to it EOS	453.382419
+SOS upon my word i cannot exactly explain the matter darcy must speak for himself EOS	536.617763
+SOS you expect me to account for opinions which you chuse to call mine but which i have never acknowledged EOS	407.780998
+SOS allowing the case however to stand according to your representation you must remember miss bennet that the friend who is supposed to desire his return to the house and the delay of his plan has merely desired it asked it without offering one argument in favour of its propriety EOS	641.497245
+SOS to yield readily easily to the persuasion of a friend is no merit with you EOS	370.352891
+SOS to yield without conviction is no compliment to the understanding of either EOS	381.727935
+SOS you appear to me TITLE darcy to allow nothing for the influence of friendship and affection EOS	250.235705
+SOS a regard for the requester would often make one readily yield to a request without waiting for arguments to reason one into it EOS	596.292836
+SOS i am not particularly speaking of such a case as you have supposed about TITLE bingley EOS	276.261097
+SOS we may as well wait perhaps till the circumstance occurs before we discuss the discretion of his behaviour thereupon EOS	710.517125
+SOS but in general and ordinary cases between friend and friend where one of them is desired by the other to change a resolution of no very great moment should you think ill of that person for complying with the desire without waiting to be argued into it EOS	469.450493
+SOS will it not be advisable before we proceed on this subject to arrange with rather more precision the degree of importance which is to appertain to this request as well as the degree of intimacy subsisting between the parties EOS	482.756309
+SOS by all means cried bingley let us hear all the particulars not forgetting their comparative height and size for that will have more weight in the argument miss bennet than you may be aware of EOS	653.535437
+SOS i assure you that if darcy were not such a great tall fellow in comparison with myself i should not pay him half so much deference EOS	461.051909
+SOS i declare i do not know a more aweful object than darcy on particular occasions and in particular places at his own house especially and of a sunday evening when he has nothing to do EOS	447.455128
+SOS TITLE darcy smiled but elizabeth thought she could perceive that he was rather offended and therefore checked her laugh EOS	469.669289
+SOS miss bingley warmly resented the indignity he had received in an expostulation with her brother for talking such nonsense EOS	718.890766
+SOS i see your design bingley said his friend EOS	269.365542
+SOS you dislike an argument and want to silence this EOS	402.492692
+SOS perhaps i do EOS	120.843570
+SOS arguments are too much like disputes EOS	657.193381
+SOS if you and miss bennet will defer yours till i am out of the room i shall be very thankful and then you may say whatever you like of me EOS	352.922040
+SOS what you ask said elizabeth is no sacrifice on my side and TITLE darcy had much better finish his letter EOS	376.498789
+SOS TITLE darcy took her advice and did finish his letter EOS	366.259032
+SOS when that business was over he applied to miss bingley and elizabeth for the indulgence of some music EOS	288.362226
+SOS miss bingley moved with alacrity to the piano forte and after a polite request that elizabeth would lead the way which the other as politely and more earnestly negatived she seated herself EOS	708.441497
+SOS TITLE hurst sang with her sister and while they were thus employed elizabeth could not help observing as she turned over some music books that lay on the instrument how frequently TITLE darcy s eyes were fixed on her EOS	625.234205
+SOS she hardly knew how to suppose that she could be an object of admiration to so great a man and yet that he should look at her because he disliked her was still more strange EOS	327.472816
+SOS she could only imagine however at last that she drew his notice because there was a something about her more wrong and reprehensible according to his ideas of right than in any other person present EOS	500.252546
+SOS the supposition did not pain her EOS	234.138912
+SOS she liked him too little to care for his approbation EOS	310.246213
+SOS after playing some italian songs miss bingley varied the charm by a lively scotch air and soon afterwards TITLE darcy drawing near elizabeth said to her do not you feel a great inclination miss bennet to seize such an opportunity of dancing a reel EOS	679.515539
+SOS she smiled but made no answer EOS	275.487999
+SOS he repeated the question with some surprise at her silence EOS	310.409399
+SOS oh EOS	90.689046
+SOS said she i heard you before but i could not immediately determine what to say in reply EOS	238.869781
+SOS you wanted me i know to say yes that you might have the pleasure of despising my taste but i always delight in overthrowing those kind of schemes and cheating a person of their premeditated contempt EOS	460.774251
+SOS i have therefore made up my mind to tell you that i do not want to dance a reel at all and now despise me if you dare EOS	335.318352
+SOS indeed i do not dare EOS	192.637705
+SOS elizabeth having rather expected to affront him was amazed at his gallantry but there was a mixture of sweetness and archness in her manner which made it difficult for her to affront anybody and darcy had never been so bewitched by any woman as he was by her EOS	417.303817
+SOS he really believed that were it not for the inferiority of her connections he should be in some danger EOS	253.823008
+SOS miss bingley saw or suspected enough to be jealous and her great anxiety for the recovery of her dear friend jane received some assistance from her desire of getting rid of elizabeth EOS	534.027103
+SOS she often tried to provoke darcy into disliking her guest by talking of their supposed marriage and planning his happiness in such an alliance EOS	695.816889
+SOS i hope said she as they were walking together in the shrubbery the next day you will give your mother in law a few hints when this desirable event takes place as to the advantage of holding her tongue and if you can compass it do cure the younger girls of running after the officers EOS	552.437738
+SOS and if i may mention so delicate a subject endeavour to check that little something bordering on conceit and impertinence which your lady possesses EOS	714.202690
+SOS have you any thing else to propose for my domestic felicity EOS	482.321539
+SOS oh EOS	90.689046
+SOS yes EOS	98.360956
+SOS do let the portraits of your uncle and aunt philips be placed in the gallery at pemberley EOS	456.079511
+SOS put them next to your great uncle the judge EOS	350.369973
+SOS they are in the same profession you know only in different lines EOS	364.592391
+SOS as for your elizabeth s picture you must not attempt to have it taken for what painter could do justice to those beautiful eyes EOS	387.091228
+SOS it would not be easy indeed to catch their expression but their colour and shape and the eye lashes so remarkably fine might be copied EOS	628.820299
+SOS at that moment they were met from another walk by TITLE hurst and elizabeth herself EOS	338.913039
+SOS i did not know that you intended to walk said miss bingley in some confusion lest they had been overheard EOS	423.990700
+SOS you used us abominably ill answered TITLE hurst in running away without telling us that you were coming out EOS	808.726859
+SOS then taking the disengaged arm of TITLE darcy she left elizabeth to walk by herself EOS	383.622032
+SOS the path just admitted three EOS	621.436110
+SOS TITLE darcy felt their rudeness and immediately said this walk is not wide enough for our party EOS	487.752755
+SOS we had better go into the avenue EOS	281.447886
+SOS but elizabeth who had not the least inclination to remain with them laughingly answered no no stay where you are EOS	422.991318
+SOS you are charmingly group d and appear to uncommon advantage EOS	820.234008
+SOS the picturesque would be spoilt by admitting a fourth EOS	447.443710
+SOS good bye EOS	314.020958
+SOS she then ran gaily off rejoicing as she rambled about in the hope of being at home again in a day or two EOS	466.264394
+SOS jane was already so much recovered as to intend leaving her room for a couple of hours that evening EOS	489.119667
+SOS when the ladies removed after dinner elizabeth ran up to her sister and seeing her well guarded from cold attended her into the drawing room where she was welcomed by her two friends with many professions of pleasure and elizabeth had never seen them so agreeable as they were during the hour which passed before the gentlemen appeared EOS	508.772190
+SOS their powers of conversation were considerable EOS	424.093786
+SOS they could describe an entertainment with accuracy relate an anecdote with humour and laugh at their acquaintance with spirit EOS	911.404262
+SOS but when the gentlemen entered jane was no longer the first object EOS	287.272203
+SOS miss bingley s eyes were instantly turned towards darcy and she had something to say to him before he had advanced many steps EOS	403.130285
+SOS he addressed himself directly to miss bennet with a polite congratulation TITLE hurst also made her a slight bow and said he was very glad but diffuseness and warmth remained for bingley s salutation EOS	641.218177
+SOS he was full of joy and attention EOS	217.582303
+SOS the first half hour was spent in piling up the fire lest she should suffer from the change of room and she removed at his desire to the other side of the fire place that she might be farther from the door EOS	407.263350
+SOS he then sat down by her and talked scarcely to any one else EOS	300.974645
+SOS elizabeth at work in the opposite corner saw it all with great delight EOS	367.578371
+SOS when tea was over TITLE hurst reminded his sister in law of the card table but in vain EOS	527.117610
+SOS she had obtained private intelligence that TITLE darcy did not wish for cards and TITLE hurst soon found even his open petition rejected EOS	747.959426
+SOS she assured him that no one intended to play and the silence of the whole party on the subject seemed to justify her EOS	276.401261
+SOS TITLE hurst had therefore nothing to do but to stretch himself on one of the sophas and go to sleep EOS	342.872568
+SOS darcy took up a book miss bingley did the same and TITLE hurst principally occupied in playing with her bracelets and rings joined now and then in her brother s conversation with miss bennet EOS	542.670409
+SOS miss bingley s attention was quite as much engaged in watching TITLE darcy s progress through his book as in reading her own and she was perpetually either making some inquiry or looking at his page EOS	682.324459
+SOS she could not win him however to any conversation he merely answered her question and read on EOS	321.884642
+SOS at length quite exhausted by the attempt to be amused with her own book which she had only chosen because it was the second volume of his she gave a great yawn and said how pleasant it is to spend an evening in this way EOS	448.339636
+SOS i declare after all there is no enjoyment like reading EOS	528.030148
+SOS how much sooner one tires of any thing than of a book EOS	377.997380
+SOS when i have a house of my own i shall be miserable if i have not an excellent library EOS	275.618667
+SOS no one made any reply EOS	278.197634
+SOS she then yawned again threw aside her book and cast her eyes round the room in quest of some amusement when hearing her brother mentioning a ball to miss bennet she turned suddenly towards him and said by the bye charles are you really serious in meditating a dance at netherfield EOS	824.171882
+SOS i would advise you before you determine on it to consult the wishes of the present party i am much mistaken if there are not some among us to whom a ball would be rather a punishment than a pleasure EOS	423.508955
+SOS if you mean darcy cried her brother he may go to bed if he chuses before it begins but as for the ball it is quite a settled thing and as soon as nicholls has made white soup enough i shall send round my cards EOS	679.266600
+SOS i should like balls infinitely better she replied if they were carried on in a different manner but there is something insufferably tedious in the usual process of such a meeting EOS	540.406026
+SOS it would surely be much more rational if conversation instead of dancing made the order of the day EOS	483.188019
+SOS much more rational my dear caroline i dare say but it would not be near so much like a ball EOS	419.476233
+SOS miss bingley made no answer and soon afterwards got up and walked about the room EOS	423.060202
+SOS her figure was elegant and she walked well but darcy at whom it was all aimed was still inflexibly studious EOS	400.118755
+SOS in the desperation of her feelings she resolved on one effort more and turning to elizabeth said miss eliza bennet let me persuade you to follow my example and take a turn about the room EOS	424.685298
+SOS i assure you it is very refreshing after sitting so long in one attitude EOS	432.724671
+SOS elizabeth was surprised but agreed to it immediately EOS	227.764802
+SOS miss bingley succeeded no less in the real object of her civility TITLE darcy looked up EOS	401.926664
+SOS he was as much awake to the novelty of attention in that quarter as elizabeth herself could be and unconsciously closed his book EOS	418.937949
+SOS he was directly invited to join their party but he declined it observing that he could imagine but two motives for their chusing to walk up and down the room together with either of which motives his joining them would interfere EOS	579.905176
+SOS what could he mean EOS	159.761477
+SOS she was dying to know what could be his meaning and asked elizabeth whether she could at all understand him EOS	287.253008
+SOS not at all was her answer but depend upon it he means to be severe on us and our surest way of disappointing him will be to ask nothing about it EOS	352.069692
+SOS miss bingley however was incapable of disappointing TITLE darcy in any thing and persevered therefore in requiring an explanation of his two motives EOS	578.695310
+SOS i have not the smallest objection to explaining them said he as soon as she allowed him to speak EOS	279.549621
+SOS you either chuse this method of passing the evening because you are in each other s confidence and have secret affairs to discuss or because you are conscious that your figures appear to the greatest advantage in walking if the first i should be completely in your way and if the second i can admire you much better as i sit by the fire EOS	542.346654
+SOS oh EOS	90.689046
+SOS shocking EOS	263.992540
+SOS cried miss bingley EOS	203.241196
+SOS i never heard any thing so abominable EOS	333.000064
+SOS how shall we punish him for such a speech EOS	423.724869
+SOS nothing so easy if you have but the inclination said elizabeth EOS	237.082472
+SOS we can all plague and punish one another EOS	618.692980
+SOS teaze him laugh at him EOS	288.703089
+SOS intimate as you are you must know how it is to be done EOS	198.103527
+SOS but upon my honour i do not EOS	182.554921
+SOS i do assure you that my intimacy has not yet taught me that EOS	323.388278
+SOS teaze calmness of temper and presence of mind EOS	534.793799
+SOS no no i feel he may defy us there EOS	346.264736
+SOS and as to laughter we will not expose ourselves if you please by attempting to laugh without a subject EOS	557.891616
+SOS TITLE darcy may hug himself EOS	266.290507
+SOS TITLE darcy is not to be laughed at EOS	140.621818
+SOS cried elizabeth EOS	117.563446
+SOS that is an uncommon advantage and uncommon i hope it will continue for it would be a great loss to me to have many such acquaintance EOS	360.006509
+SOS i dearly love a laugh EOS	414.561110
+SOS miss bingley said he has given me credit for more than can be EOS	313.121922
+SOS the wisest and the best of men nay the wisest and best of their actions may be rendered ridiculous by a person whose first object in life is a joke EOS	630.718077
+SOS certainly replied elizabeth there are such people but i hope i am not one of them EOS	240.474050
+SOS i hope i never ridicule what is wise or good EOS	405.235194
+SOS follies and nonsense whims and inconsistencies do divert me i own and i laugh at them whenever i can EOS	626.431380
+SOS but these i suppose are precisely what you are without EOS	296.752393
+SOS perhaps that is not possible for any one EOS	188.621260
+SOS but it has been the study of my life to avoid those weaknesses which often expose a strong understanding to ridicule EOS	570.929574
+SOS such as vanity and pride EOS	217.737458
+SOS yes vanity is a weakness indeed EOS	523.739688
+SOS but pride where there is a real superiority of mind pride will be always under good regulation EOS	532.235489
+SOS elizabeth turned away to hide a smile EOS	300.762673
+SOS your examination of TITLE darcy is over i presume said miss bingley and pray what is the result EOS	430.247759
+SOS i am perfectly convinced by it that TITLE darcy has no defect EOS	327.327836
+SOS he owns it himself without disguise EOS	408.531960
+SOS no said darcy i have made no such pretension EOS	300.607548
+SOS i have faults enough but they are not i hope of understanding EOS	256.507949
+SOS my temper i dare not vouch for EOS	369.389255
+SOS it is i believe too little yielding certainly too little for the convenience of the world EOS	385.873660
+SOS i cannot forget the follies and vices of others so soon as i ought nor their offences against myself EOS	564.308787
+SOS my feelings are not puffed about with every attempt to move them EOS	452.859050
+SOS my temper would perhaps be called resentful EOS	610.186893
+SOS my good opinion once lost is lost for ever EOS	439.378308
+SOS that is a failing indeed EOS	175.756502
+SOS cried elizabeth EOS	117.563446
+SOS implacable resentment is a shade in a character EOS	443.065620
+SOS but you have chosen your fault well EOS	363.202869
+SOS i really cannot laugh at it EOS	237.753755
+SOS you are safe from me EOS	238.295715
+SOS there is i believe in every disposition a tendency to some particular evil a natural defect which not even the best education can overcome EOS	683.038331
+SOS and your defect is a propensity to hate every body EOS	421.144882
+SOS and yours he replied with a smile is wilfully to misunderstand them EOS	440.472707
+SOS do let us have a little music cried miss bingley tired of a conversation in which she had no share EOS	409.649537
+SOS louisa you will not mind my waking TITLE hurst EOS	493.038645
+SOS her sister made not the smallest objection and the piano forte was opened and darcy after a few moments recollection was not sorry for it EOS	463.534507
+SOS he began to feel the danger of paying elizabeth too much attention EOS	371.442867
+SOS in consequence of an agreement between the sisters elizabeth wrote the next morning to her mother to beg that the carriage might be sent for them in the course of the day EOS	299.803529
+SOS but TITLE bennet who had calculated on her daughters remaining at netherfield till the following tuesday which would exactly finish jane s week could not bring herself to receive them with pleasure before EOS	643.013986
+SOS her answer therefore was not propitious at least not to elizabeth s wishes for she was impatient to get home EOS	297.913985
+SOS TITLE bennet sent them word that they could not possibly have the carriage before tuesday and in her postscript it was added that if TITLE bingley and his sister pressed them to stay longer she could spare them very well EOS	400.355830
+SOS against staying longer however elizabeth was positively resolved nor did she much expect it would be asked and fearful on the contrary as being considered as intruding themselves needlessly long she urged jane to borrow TITLE bingley s carriage immediately and at length it was settled that their original design of leaving netherfield that morning should be mentioned and the request made EOS	717.762689
+SOS the communication excited many professions of concern and enough was said of wishing them to stay at least till the following day to work on jane and till the morrow their going was deferred EOS	464.819148
+SOS miss bingley was then sorry that she had proposed the delay for her jealousy and dislike of one sister much exceeded her affection for the other EOS	395.553356
+SOS the master of the house heard with real sorrow that they were to go so soon and repeatedly tried to persuade miss bennet that it would not be safe for her that she was not enough recovered but jane was firm where she felt herself to be right EOS	359.447443
+SOS to TITLE darcy it was welcome intelligence elizabeth had been at netherfield long enough EOS	279.820892
+SOS she attracted him more than he liked and miss bingley was uncivil to her and more teazing than usual to himself EOS	361.374487
+SOS he wisely resolved to be particularly careful that no sign of admiration should now escape him nothing that could elevate her with the hope of influencing his felicity sensible that if such an idea had been suggested his behaviour during the last day must have material weight in confirming or crushing it EOS	677.798253
+SOS steady to his purpose he scarcely spoke ten words to her through the whole of saturday and though they were at one time left by themselves for half an hour he adhered most conscientiously to his book and would not even look at her EOS	448.163224
+SOS on sunday after morning service the separation so agreeable to almost all took place EOS	649.774349
+SOS miss bingley s civility to elizabeth increased at last very rapidly as well as her affection for jane and when they parted after assuring the latter of the pleasure it would always give her to see her either at longbourn or netherfield and embracing her most tenderly she even shook hands with the former EOS	481.435546
+SOS elizabeth took leave of the whole party in the liveliest spirits EOS	349.236466
+SOS they were not welcomed home very cordially by their mother EOS	473.071105
+SOS TITLE bennet wondered at their coming and thought them very wrong to give so much trouble and was sure jane would have caught cold again EOS	453.430176
+SOS but their father though very laconic in his expressions of pleasure was really glad to see them he had felt their importance in the family circle EOS	361.168023
+SOS the evening conversation when they were all assembled had lost much of its animation and almost all its sense by the absence of jane and elizabeth EOS	383.753331
+SOS they found mary as usual deep in the study of thorough bass and human nature and had some new extracts to admire and some new observations of thread bare morality to listen to EOS	869.539843
+SOS catherine and lydia had information for them of a different sort EOS	245.753096
+SOS much had been done and much had been said in the regiment since the preceding wednesday several of the officers had dined lately with their uncle a private had been flogged and it had actually been hinted that colonel forster was going to be married EOS	445.316395
+SOS i hope my dear said TITLE bennet to his wife as they were at breakfast the next morning that you have ordered a good dinner to day because i have reason to expect an addition to our family party EOS	366.402521
+SOS who do you mean my dear EOS	233.856395
+SOS i know of nobody that is coming i am sure unless charlotte lucas should happen to call in and i hope my dinners are good enough for her EOS	364.115182
+SOS i do not believe she often sees such at home EOS	317.198084
+SOS the person of whom i speak is a gentleman and a stranger EOS	224.320953
+SOS TITLE bennet s eyes sparkled EOS	273.806123
+SOS a gentleman and a stranger EOS	179.935677
+SOS it is TITLE bingley i am sure EOS	143.974402
+SOS why jane you never dropt a word of this you sly thing EOS	437.230329
+SOS well i am sure i shall be extremely glad to see TITLE bingley EOS	295.420762
+SOS but good lord EOS	216.285964
+SOS how unlucky EOS	259.816420
+SOS there is not a bit of fish to be got to day EOS	221.693534
+SOS lydia my love ring the bell EOS	456.665518
